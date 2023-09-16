@@ -11,3 +11,6 @@ li{
 .important-places{
     color: violet;
 }
+.elements-container li{
+    color: aqua;
+}

@@ -34,3 +34,11 @@ for (const place of places) {
 }
 const otherPlace=document.getElementById('other-place');
 console.log(otherPlace);
+
+const someLi=document.querySelectorAll('.elements-container li')
+console.log(someLi);
+for (const li of someLi) {
+    console.log(li);
+    console.log(li.innerText);
+    
+}
