@@ -39,6 +39,8 @@ const someLi=document.querySelectorAll('.elements-container li')
 console.log(someLi);
 for (const li of someLi) {
     console.log(li);
-    console.log(li.innerText);
-    
+    console.log(li.innerText); 
 }
+const title=document.getElementById('places-title');
+title.setAttribute('title','this placed i visited');
+console.log(title);

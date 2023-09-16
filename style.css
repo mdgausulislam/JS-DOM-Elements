@@ -14,3 +14,10 @@ li{
 .elements-container li{
     color: aqua;
 }
+.large-text{
+    font-size: 2rem;
+}
+.yellow-bg{
+    background-color: yellowgreen !important;
+    text-align: center;
+}
