@@ -16,8 +16,7 @@ const place1=document.getElementById('places-container');
 place1.classList.add('yellow-bg');
 place1.classList.remove('large-text')
 
-const placeUl=getElementById('places-container');
+// const placeUl=getElementById('places-container');
 const li=document.createElement('li');
 li.innerText="brand new place to go";
 console.log(li);
-placeUl.appendChild(li);
