@@ -5,3 +5,9 @@ h1{
 li{
     color:tomato;
 }
+#elements-title{
+    color: black;
+}
+.important-places{
+    color: violet;
+}
